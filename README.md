@@ -22,7 +22,7 @@ When you provide a video file, this skill will:
 
 ```bash
 # Clone to a temporary location
-git clone https://github.com/YOUR_USERNAME/claude-code-process-video /tmp/claude-code-process-video
+git clone https://github.com/bszymi/claude-code-process-video /tmp/claude-code-process-video
 
 # Copy the skill to your personal skills directory
 cp -r /tmp/claude-code-process-video/skills/process-video ~/.claude/skills/
